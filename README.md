@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/modelwriter/wp7.png?label=ready&title=Ready)](https://waffle.io/modelwriter/wp7)
 WP7
 ===
 
