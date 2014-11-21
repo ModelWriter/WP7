@@ -4,7 +4,7 @@ Work Package 7
 
 [`Product Backlog of WP7`](https://waffle.io/ModelWriter/WP7)
 
-The product backlog itself is implemented in the [issue tracker](https://github.com/modelwriter/wp7/issues) of this repository.
+The product backlog itself is implemented in the [`issue tracker`](https://github.com/modelwriter/wp7/issues) of this repository.
 
 **Objectives**
 
