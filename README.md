@@ -6,7 +6,7 @@ Work Package 7
 
 The product backlog itself is implemented in the [`issue tracker`](https://github.com/modelwriter/wp7/issues) of this repository.
 
-Dissemination Reports:
+Dissemination Reports
 ---
  1. [`5th Turkish Software Architecture Conference (UYMK 2014), Ankara, Turkey`](http://goo.gl/VCLkdd) 
  2. 
