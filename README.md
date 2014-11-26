@@ -6,6 +6,10 @@ Work Package 7
 
 The product backlog itself is implemented in the [`issue tracker`](https://github.com/modelwriter/wp7/issues) of this repository.
 
+Dissemination Reports:
+---
+ 1. `[5th Turkish Software Architecture Conference (UYMK 2014), Ankara, Turkey]`(http://goo.gl/VCLkdd) 
+
 **Objectives**
 
 The primary objective for this WP is to create strong awareness of the ModelWriter project and products at European level, with the aim to multiply its impact and subsequent exploitation opportunities. This objective is broken down into the following sub-objectives:
