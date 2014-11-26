@@ -10,7 +10,8 @@ Dissemination Reports:
 ---
  1. [`5th Turkish Software Architecture Conference (UYMK 2014), Ankara, Turkey`](http://goo.gl/VCLkdd) 
 
-**Objectives**
+Objectives
+---
 
 The primary objective for this WP is to create strong awareness of the ModelWriter project and products at European level, with the aim to multiply its impact and subsequent exploitation opportunities. This objective is broken down into the following sub-objectives:
 
@@ -20,7 +21,8 @@ The primary objective for this WP is to create strong awareness of the ModelWrit
 * To share the ModelWriter platform with the scientific community (as per section 3.3.3.3).
 * To build and stimulate an on-line knowledge community bringing together organizations and individuals interested in the topic.
 
-**Expected results**
+Expected results
+---
 
 * Exploitation Plan (based on the optimal Business Model) in order to reach the desired market(s).
 * A Dissemination Plan.
